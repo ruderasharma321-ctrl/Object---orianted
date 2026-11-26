@@ -1,0 +1,5 @@
+$ java Main
+I am a person.
+I am a student.
+I am a lecturer.
+

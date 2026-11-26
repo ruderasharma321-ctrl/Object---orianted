@@ -1,0 +1,15 @@
+$ java Main   (input: 3 tasks)
+===== ADD TASKS =====
+Enter Task 1: Enter Task 2: Enter Task 3: 
+===== TASK LIST =====
+1. drink some more water
+2. walking at the park
+3. eat healthy snack
+
+Tasks saved successfully.
+
+===== TASKS LOADED FROM FILE =====
+drink some more water
+walking at the park
+eat healthy snack
+
